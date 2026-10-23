@@ -9,7 +9,7 @@ VR mod for "Dementium II HD" (Unity 3.5.7f6, Mono, 32-bit) - BepInEx 5 (x86, inc
 Install
 -------
 1. unzip into the game folder (next to the game's .exe):
-   "Start Dementium II VR.bat" (in the game folder), or add  -force-opengl  to shortcut.
+   "Start Dementium II VR.bat" (in the game folder), or add  -force-opengl  to shortcut or Steam launch options.
    
 2. Start Quest Link / Virtual Desktop / SteamVR first (it must be the active OpenXR runtime), then the game.
    The game is 32-bit, so the runtime must have a 32-bit OpenXR part and OpenGL support. Meta (Oculus) and SteamVR
